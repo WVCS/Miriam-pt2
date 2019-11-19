@@ -1,0 +1,33 @@
+.heyo {
+  background-color: #F4CBC6;
+  color: lightskyblue;
+  margin: 50px;
+  text-align: center;
+}
+
+.supbro {
+  color: #F4AFAB;
+  font-size: 100%;
+  margin: 50px;
+  text-align: center;
+}
+
+.aiiight {
+  color: lightskyblue;
+  text-align: center
+}
+
+table, th, td {
+  color:  lightskyblue;
+  border: 3px solid black;
+  border-color: lightskyblue;
+  border-collapse: collapse;
+  background-color: #F4CBC6;
+  margin: 25px
+}
+
+footer {
+  background-color: #F4CBC6;
+  color: lightskyblue;
+  text-align: center
+}
