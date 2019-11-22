@@ -26,6 +26,16 @@ table, th, td {
   margin: 25px
 }
 
+a:link {
+  color: #3c3c3c;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #787878;
+  text-decoration: underline;
+}
+
 footer {
   background-color: #F4CBC6;
   color: lightskyblue;
